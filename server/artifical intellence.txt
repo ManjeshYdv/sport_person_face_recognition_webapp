@@ -1,0 +1,10 @@
+=IF(G4="Male", 1,IF(G4="Female", 0,IF(G4="No answer", 2,IF(ISBLANK(G4), 3, 3))))
+Assignment 1 file(s)
+Download attached Excel file and prepare it for usage as lesson trained.
+ 
+
+There is two sheet to correct, top of each sheet can see correction level and points.
+
+This can return only once, so ensure you are done both sheets.
+
+Max points is 6.
